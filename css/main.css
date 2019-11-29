@@ -1,0 +1,57 @@
+body {
+
+  background-color: #88D7F9;
+}
+
+.header-page {
+  padding-left: 8px;
+  color: #BA47FC;
+}
+.op-menu {
+  position: fixed;
+}
+
+.nav-top {
+  background-color: #BA47FC;
+}
+
+.nav-top a {
+  float: left;
+  color: 	#ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav-top a:hover {
+  background-color: #88D7F9;
+  color: #BA47FC;
+}
+
+.nav-top a.active {
+  background-color: #88D7F9;
+  color: white;
+}
+
+.banner-hm {
+  width: 100%;
+  height: 450px;
+}
+
+.seg-bloco {
+  padding: 26px;
+  background-color: #cccfff;
+
+}
+
+h2 {
+  padding-left: 10px;
+  color: #292929;
+
+}
+
+p {
+  font-size: 20px;
+  padding-left: 35px;
+}
