@@ -9,6 +9,7 @@ body {
 }
 .op-menu {
   position: fixed;
+  text-transform: uppercase;
 }
 
 .nav-top {
@@ -17,7 +18,7 @@ body {
 
 .nav-top a {
   float: left;
-  color: 	#ffffff;
+  color: 	#e05eac;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
