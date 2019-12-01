@@ -14,6 +14,7 @@ nav a {
 }
 
 .banner-hm {
+  margin-top: 35px;
   width: 100%;
   height: 450px;
 
@@ -55,6 +56,7 @@ p {
   padding: 50px 0;
   width: 33%;
   vertical-align: top;
+  box-sizing: border-box;
 }
 
 .packet-service h2 {
@@ -67,4 +69,8 @@ p {
   width: 200px;
   height: 250px;
 
+}
+.packet-service p {
+  font-size: 18px;
+  margin-top: 8px;
 }
