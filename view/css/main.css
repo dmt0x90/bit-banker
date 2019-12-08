@@ -10,8 +10,13 @@ nav a {
   color: 	#e05eac;
   padding: 16px 14px;
   font-size: 14px;
-
+  text-decoration: none;
 }
+nav a:hover {
+  color: #88D7F9;
+  text-decoration: none;
+}
+
 
 .banner-hm {
   margin-top: 35px;
@@ -57,8 +62,18 @@ p {
   margin: 0 1.5;
   padding: 30px 20px;
   box-sizing: border-box;
-  border: 2px solid #000000;
+  border: 5px solid #000000;
   border-radius: 10px;
+}
+
+.packet-service li:hover {
+  border-color: #9543CF;
+
+}
+
+.packet-service li:active {
+  border-color: #db7fff;
+
 }
 
 .packet-service h2 {
@@ -74,4 +89,9 @@ p {
 }
 .packet-service p {
   font-size: 16px;
+}
+footer {
+  
+  height: 150px;
+
 }
