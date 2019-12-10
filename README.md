@@ -1,4 +1,4 @@
-Bit Bnaker
+# Bit Banker
 
 This project go to create one application web basic.
 
@@ -19,4 +19,3 @@ Indexs
 
 
 Author: dmt0x90
- 
